@@ -26,3 +26,6 @@
 
 ## Comment ça marche ?
 [Google Colab](https://colab.research.google.com/drive/16qFBu2mePxI_0qfgxX_cJEGNMvVRIUp3?usp=sharing)<br>
+
+##Diapo
+[Diapo](https://docs.google.com/presentation/d/17XeyI3qqqCiPdZBSMrw4UezGdjwKzGdbrFXzpTPe3TM/)
