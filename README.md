@@ -15,8 +15,9 @@
 [IA Plays Pokemon Red](https://github.com/PWhiddy/PokemonRedExperiments) - [Video](https://www.youtube.com/watch?v=DcYLT37ImBY&t=183s)<br>
 
 ### Robotics
-[Usine Audi](https://www.youtube.com/watch?v=rbki4HR41-4)<br>
 [Tesla Self-Driving](https://www.youtube.com/watch?v=tlThdr3O5Qo)<br>
+[Usine Audi](https://www.youtube.com/watch?v=rbki4HR41-4)<br>
+[Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)<br>
 
 ### Sentiment Analysis
 [Facial Expressions](https://github.com/kumarvivek9088/Face_Emotion_Recognition_Machine_Learning)<br>
@@ -28,4 +29,4 @@
 [Google Colab](https://colab.research.google.com/drive/16qFBu2mePxI_0qfgxX_cJEGNMvVRIUp3?usp=sharing)<br>
 
 ## Diapo
-[Diapo](https://docs.google.com/presentation/d/17XeyI3qqqCiPdZBSMrw4UezGdjwKzGdbrFXzpTPe3TM/)
+[Diapo](https://docs.google.com/presentation/d/17XeyI3qqqCiPdZBSMrw4UezGdjwKzGdbrFXzpTPe3TM/)<br>
